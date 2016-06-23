@@ -39,10 +39,10 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
+  name: Lila F Roberts
+  email: "lfroberts@me.com"
   facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
+  github: Lila Roberts    # eg. daattali
   twitter: yourname   # eg. daattali
   linkedin: yourlink  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: yourlink  # eg. "3943160/daattali"
